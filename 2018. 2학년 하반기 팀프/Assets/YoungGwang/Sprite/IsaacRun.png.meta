@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 77d6aa7b5701ffb43beedbe5fc3bf4d6
+timeCreated: 1527075025
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IsaacRun_0
+    21300002: IsaacRun_1
+    21300004: IsaacRun_2
+    21300006: IsaacRun_3
+    21300008: IsaacRun_4
+    21300010: IsaacRun_5
+    21300012: IsaacRun_6
+    21300014: IsaacRun_7
+    21300016: IsaacRun_8
+    21300018: IsaacRun_9
+    21300020: IsaacRun_10
+    21300022: IsaacRun_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IsaacRun_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 201
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 202
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 202
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 136
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 135
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 74
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 73
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IsaacRun_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 9
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 90, y: -83}
+      - {x: 87, y: -84}
+      - {x: 81, y: -92}
+      - {x: 81, y: -101}
+      - {x: 84, y: -112}
+      - {x: 89, y: -121}
+      - {x: 104, y: -121}
+      - {x: 113, y: -115}
+      - {x: 113, y: -91}
+      - {x: 105, y: -83}
+    - - {x: -107, y: -82}
+      - {x: -113, y: -90}
+      - {x: -113, y: -108}
+      - {x: -103, y: -120}
+      - {x: -92, y: -120}
+      - {x: -81, y: -107}
+      - {x: -81, y: -89}
+      - {x: -85, y: -82}
+    - - {x: -7, y: -83}
+      - {x: -16, y: -87}
+      - {x: -16, y: -112}
+      - {x: -12, y: -120}
+      - {x: 7, y: -120}
+      - {x: 16, y: -107}
+      - {x: 16, y: -91}
+      - {x: 10, y: -83}
+    - - {x: -111, y: -19}
+      - {x: -113, y: -26}
+      - {x: -113, y: -43}
+      - {x: -103, y: -57}
+      - {x: -82, y: -57}
+      - {x: -81, y: -54}
+      - {x: -81, y: -19}
+    - - {x: 108, y: -20}
+      - {x: 84, y: -20}
+      - {x: 81, y: -25}
+      - {x: 81, y: -41}
+      - {x: 88, y: -57}
+      - {x: 104, y: -57}
+      - {x: 111, y: -53}
+      - {x: 113, y: -42}
+      - {x: 113, y: -29}
+    - - {x: -8, y: -19}
+      - {x: -16, y: -22}
+      - {x: -16, y: -53}
+      - {x: -15, y: -56}
+      - {x: 8, y: -56}
+      - {x: 16, y: -50}
+      - {x: 16, y: -26}
+      - {x: 10, y: -19}
+    - - {x: 87, y: 43}
+      - {x: 81, y: 36}
+      - {x: 81, y: 21}
+      - {x: 86, y: 5}
+      - {x: 104, y: 5}
+      - {x: 108, y: 6}
+      - {x: 113, y: 17}
+      - {x: 113, y: 36}
+      - {x: 110, y: 43}
+    - - {x: -90, y: 43}
+      - {x: -101, y: 43}
+      - {x: -106, y: 42}
+      - {x: -113, y: 36}
+      - {x: -113, y: 20}
+      - {x: -108, y: 6}
+      - {x: -91, y: 6}
+      - {x: -81, y: 22}
+      - {x: -81, y: 34}
+      - {x: -82, y: 37}
+    - - {x: -9, y: 43}
+      - {x: -16, y: 39}
+      - {x: -16, y: 19}
+      - {x: -9, y: 6}
+      - {x: 6, y: 6}
+      - {x: 16, y: 19}
+      - {x: 16, y: 36}
+      - {x: 13, y: 43}
+    - - {x: -85, y: 109}
+      - {x: -105, y: 109}
+      - {x: -113, y: 106}
+      - {x: -113, y: 85}
+      - {x: -111, y: 75}
+      - {x: -101, y: 71}
+      - {x: -89, y: 71}
+      - {x: -82, y: 77}
+      - {x: -81, y: 85}
+      - {x: -81, y: 106}
+    - - {x: 8, y: 109}
+      - {x: -12, y: 109}
+      - {x: -16, y: 100}
+      - {x: -16, y: 84}
+      - {x: -8, y: 72}
+      - {x: 5, y: 72}
+      - {x: 11, y: 79}
+      - {x: 16, y: 91}
+      - {x: 16, y: 101}
+    - - {x: 85, y: 110}
+      - {x: 81, y: 103}
+      - {x: 81, y: 84}
+      - {x: 90, y: 72}
+      - {x: 103, y: 72}
+      - {x: 113, y: 85}
+      - {x: 113, y: 102}
+      - {x: 109, y: 110}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
