@@ -1,0 +1,1486 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fc4ebe1ead8f1d46b6ac29df0c6e592, type: 3}
+  m_Name: New Music Note 2
+  m_EditorClassIdentifier: 
+  music: {fileID: 8300000, guid: 0e04f3f00ea4ce3498baa6a845be1aed, type: 3}
+  notes:
+  - time: 7.8719954
+    num: 3
+    noteKind: 0
+  - time: 8.533311
+    num: 3
+    noteKind: 0
+  - time: 9.258662
+    num: 1
+    noteKind: 0
+  - time: 9.493311
+    num: 3
+    noteKind: 0
+  - time: 9.791995
+    num: 1
+    noteKind: 0
+  - time: 10.282653
+    num: 1
+    noteKind: 0
+  - time: 10.581315
+    num: 3
+    noteKind: 0
+  - time: 11.199977
+    num: 3
+    noteKind: 0
+  - time: 11.690658
+    num: 1
+    noteKind: 0
+  - time: 12.458662
+    num: 1
+    noteKind: 0
+  - time: 13.077324
+    num: 3
+    noteKind: 0
+  - time: 13.354649
+    num: 1
+    noteKind: 0
+  - time: 13.631995
+    num: 3
+    noteKind: 0
+  - time: 14.122653
+    num: 3
+    noteKind: 0
+  - time: 14.378662
+    num: 1
+    noteKind: 0
+  - time: 15.530658
+    num: 3
+    noteKind: 0
+  - time: 16.21331
+    num: 3
+    noteKind: 0
+  - time: 16.917324
+    num: 1
+    noteKind: 0
+  - time: 17.151995
+    num: 3
+    noteKind: 0
+  - time: 17.42932
+    num: 1
+    noteKind: 0
+  - time: 17.962652
+    num: 1
+    noteKind: 0
+  - time: 18.197325
+    num: 3
+    noteKind: 0
+  - time: 18.901316
+    num: 3
+    noteKind: 0
+  - time: 19.391996
+    num: 1
+    noteKind: 0
+  - time: 20.117325
+    num: 1
+    noteKind: 0
+  - time: 20.799978
+    num: 3
+    noteKind: 0
+  - time: 21.055986
+    num: 1
+    noteKind: 0
+  - time: 21.311995
+    num: 3
+    noteKind: 0
+  - time: 21.781315
+    num: 3
+    noteKind: 0
+  - time: 22.037325
+    num: 1
+    noteKind: 0
+  - time: 23.24331
+    num: 1
+    noteKind: 0
+  - time: 23.925964
+    num: 1
+    noteKind: 0
+  - time: 24.715305
+    num: 3
+    noteKind: 0
+  - time: 24.92864
+    num: 1
+    noteKind: 0
+  - time: 25.184626
+    num: 3
+    noteKind: 0
+  - time: 25.696644
+    num: 3
+    noteKind: 0
+  - time: 25.88864
+    num: 1
+    noteKind: 0
+  - time: 26.571293
+    num: 3
+    noteKind: 0
+  - time: 27.083311
+    num: 1
+    noteKind: 0
+  - time: 27.851292
+    num: 1
+    noteKind: 0
+  - time: 28.51263
+    num: 3
+    noteKind: 0
+  - time: 28.725964
+    num: 1
+    noteKind: 0
+  - time: 29.003311
+    num: 3
+    noteKind: 0
+  - time: 29.493969
+    num: 3
+    noteKind: 0
+  - time: 29.685965
+    num: 1
+    noteKind: 0
+  - time: 30.958843
+    num: 3
+    noteKind: 0
+  - time: 31.342834
+    num: 3
+    noteKind: 0
+  - time: 31.620182
+    num: 1
+    noteKind: 0
+  - time: 32.0895
+    num: 3
+    noteKind: 0
+  - time: 32.366848
+    num: 3
+    noteKind: 0
+  - time: 32.60152
+    num: 1
+    noteKind: 0
+  - time: 32.857506
+    num: 3
+    noteKind: 0
+  - time: 33.198845
+    num: 3
+    noteKind: 0
+  - time: 33.518845
+    num: 1
+    noteKind: 0
+  - time: 34.24417
+    num: 3
+    noteKind: 0
+  - time: 34.75617
+    num: 1
+    noteKind: 0
+  - time: 35.182835
+    num: 1
+    noteKind: 0
+  - time: 35.438843
+    num: 3
+    noteKind: 0
+  - time: 35.95084
+    num: 1
+    noteKind: 0
+  - time: 36.20685
+    num: 1
+    noteKind: 0
+  - time: 36.462833
+    num: 3
+    noteKind: 0
+  - time: 36.697506
+    num: 1
+    noteKind: 0
+  - time: 37.06018
+    num: 1
+    noteKind: 0
+  - time: 37.38018
+    num: 3
+    noteKind: 0
+  - time: 38.524376
+    num: 1
+    noteKind: 0
+  - time: 39.100384
+    num: 1
+    noteKind: 0
+  - time: 39.335056
+    num: 3
+    noteKind: 0
+  - time: 39.804375
+    num: 1
+    noteKind: 0
+  - time: 40.060387
+    num: 1
+    noteKind: 0
+  - time: 40.27372
+    num: 3
+    noteKind: 0
+  - time: 40.551044
+    num: 1
+    noteKind: 0
+  - time: 40.871044
+    num: 1
+    noteKind: 0
+  - time: 41.25506
+    num: 3
+    noteKind: 0
+  - time: 41.809704
+    num: 3
+    noteKind: 0
+  - time: 42.08705
+    num: 1
+    noteKind: 0
+  - time: 42.40705
+    num: 3
+    noteKind: 0
+  - time: 42.89771
+    num: 3
+    noteKind: 0
+  - time: 43.111042
+    num: 1
+    noteKind: 0
+  - time: 43.580387
+    num: 3
+    noteKind: 0
+  - time: 43.836372
+    num: 3
+    noteKind: 0
+  - time: 44.11372
+    num: 1
+    noteKind: 0
+  - time: 44.369705
+    num: 3
+    noteKind: 0
+  - time: 44.73238
+    num: 1
+    noteKind: 0
+  - time: 45.05238
+    num: 3
+    noteKind: 0
+  - time: 46.33102
+    num: 3
+    noteKind: 0
+  - time: 46.73635
+    num: 3
+    noteKind: 0
+  - time: 46.949684
+    num: 1
+    noteKind: 0
+  - time: 47.483017
+    num: 3
+    noteKind: 0
+  - time: 47.69635
+    num: 3
+    noteKind: 0
+  - time: 47.95236
+    num: 1
+    noteKind: 0
+  - time: 48.18703
+    num: 3
+    noteKind: 0
+  - time: 48.549683
+    num: 3
+    noteKind: 0
+  - time: 48.912357
+    num: 1
+    noteKind: 0
+  - time: 49.360363
+    num: 1
+    noteKind: 0
+  - time: 49.573696
+    num: 3
+    noteKind: 0
+  - time: 49.85102
+    num: 1
+    noteKind: 0
+  - time: 50.085693
+    num: 1
+    noteKind: 0
+  - time: 50.597687
+    num: 1
+    noteKind: 0
+  - time: 50.81102
+    num: 3
+    noteKind: 0
+  - time: 51.28036
+    num: 1
+    noteKind: 0
+  - time: 51.557686
+    num: 1
+    noteKind: 0
+  - time: 51.79236
+    num: 3
+    noteKind: 0
+  - time: 52.048344
+    num: 1
+    noteKind: 0
+  - time: 52.389683
+    num: 1
+    noteKind: 0
+  - time: 52.752357
+    num: 3
+    noteKind: 0
+  - time: 53.98968
+    num: 1
+    noteKind: 0
+  - time: 54.416348
+    num: 1
+    noteKind: 0
+  - time: 54.693695
+    num: 3
+    noteKind: 0
+  - time: 55.12036
+    num: 1
+    noteKind: 0
+  - time: 55.37635
+    num: 1
+    noteKind: 0
+  - time: 55.61102
+    num: 3
+    noteKind: 0
+  - time: 55.84569
+    num: 1
+    noteKind: 0
+  - time: 56.229683
+    num: 1
+    noteKind: 0
+  - time: 56.592358
+    num: 3
+    noteKind: 0
+  - time: 57.06168
+    num: 3
+    noteKind: 0
+  - time: 57.317688
+    num: 1
+    noteKind: 0
+  - time: 57.552357
+    num: 3
+    noteKind: 0
+  - time: 57.82968
+    num: 3
+    noteKind: 0
+  - time: 58.256348
+    num: 3
+    noteKind: 0
+  - time: 58.49102
+    num: 1
+    noteKind: 0
+  - time: 58.981678
+    num: 3
+    noteKind: 0
+  - time: 59.21635
+    num: 3
+    noteKind: 0
+  - time: 59.47236
+    num: 1
+    noteKind: 0
+  - time: 59.70703
+    num: 3
+    noteKind: 0
+  - time: 60.069683
+    num: 1
+    noteKind: 0
+  - time: 60.432358
+    num: 3
+    noteKind: 0
+  - time: 61.657528
+    num: 3
+    noteKind: 0
+  - time: 62.105534
+    num: 3
+    noteKind: 0
+  - time: 62.276215
+    num: 1
+    noteKind: 0
+  - time: 62.809547
+    num: 3
+    noteKind: 0
+  - time: 63.065533
+    num: 3
+    noteKind: 0
+  - time: 63.32154
+    num: 1
+    noteKind: 0
+  - time: 63.556213
+    num: 3
+    noteKind: 0
+  - time: 63.89753
+    num: 1
+    noteKind: 0
+  - time: 64.23887
+    num: 3
+    noteKind: 0
+  - time: 64.729546
+    num: 3
+    noteKind: 0
+  - time: 64.985535
+    num: 1
+    noteKind: 0
+  - time: 65.22021
+    num: 3
+    noteKind: 0
+  - time: 65.45487
+    num: 1
+    noteKind: 0
+  - time: 65.90288
+    num: 1
+    noteKind: 0
+  - time: 66.15887
+    num: 3
+    noteKind: 0
+  - time: 66.62821
+    num: 1
+    noteKind: 0
+  - time: 66.90553
+    num: 1
+    noteKind: 0
+  - time: 67.140205
+    num: 3
+    noteKind: 0
+  - time: 67.39621
+    num: 1
+    noteKind: 0
+  - time: 67.758865
+    num: 3
+    noteKind: 0
+  - time: 68.078865
+    num: 1
+    noteKind: 0
+  - time: 69.316216
+    num: 1
+    noteKind: 0
+  - time: 69.74288
+    num: 1
+    noteKind: 0
+  - time: 69.97753
+    num: 3
+    noteKind: 0
+  - time: 70.44687
+    num: 1
+    noteKind: 0
+  - time: 70.7242
+    num: 1
+    noteKind: 0
+  - time: 70.95887
+    num: 3
+    noteKind: 0
+  - time: 71.193535
+    num: 1
+    noteKind: 0
+  - time: 71.57753
+    num: 3
+    noteKind: 0
+  - time: 71.91887
+    num: 1
+    noteKind: 0
+  - time: 72.38821
+    num: 1
+    noteKind: 0
+  - time: 72.665535
+    num: 3
+    noteKind: 0
+  - time: 72.87887
+    num: 1
+    noteKind: 0
+  - time: 73.15621
+    num: 3
+    noteKind: 0
+  - time: 73.64687
+    num: 3
+    noteKind: 0
+  - time: 73.90288
+    num: 1
+    noteKind: 0
+  - time: 74.3722
+    num: 3
+    noteKind: 0
+  - time: 74.60687
+    num: 3
+    noteKind: 0
+  - time: 74.841545
+    num: 1
+    noteKind: 0
+  - time: 75.07621
+    num: 3
+    noteKind: 0
+  - time: 75.41753
+    num: 1
+    noteKind: 0
+  - time: 75.737526
+    num: 3
+    noteKind: 0
+  - time: 76.419754
+    num: 2
+    noteKind: 0
+  - time: 76.99302
+    num: 3
+    noteKind: 0
+  - time: 77.249
+    num: 1
+    noteKind: 0
+  - time: 77.48367
+    num: 3
+    noteKind: 0
+  - time: 77.739685
+    num: 1
+    noteKind: 0
+  - time: 77.97435
+    num: 3
+    noteKind: 0
+  - time: 78.209
+    num: 1
+    noteKind: 0
+  - time: 78.699684
+    num: 3
+    noteKind: 0
+  - time: 78.955666
+    num: 3
+    noteKind: 0
+  - time: 79.19034
+    num: 1
+    noteKind: 0
+  - time: 79.318344
+    num: 3
+    noteKind: 0
+  - time: 79.59567
+    num: 1
+    noteKind: 0
+  - time: 80.854355
+    num: 1
+    noteKind: 0
+  - time: 81.110344
+    num: 3
+    noteKind: 0
+  - time: 81.36635
+    num: 1
+    noteKind: 0
+  - time: 81.57968
+    num: 3
+    noteKind: 0
+  - time: 81.814354
+    num: 1
+    noteKind: 0
+  - time: 82.049
+    num: 3
+    noteKind: 0
+  - time: 82.51834
+    num: 1
+    noteKind: 0
+  - time: 82.79567
+    num: 1
+    noteKind: 0
+  - time: 83.009
+    num: 3
+    noteKind: 0
+  - time: 83.17968
+    num: 1
+    noteKind: 0
+  - time: 83.52102
+    num: 3
+    noteKind: 0
+  - time: 84.67302
+    num: 3
+    noteKind: 0
+  - time: 84.929
+    num: 1
+    noteKind: 0
+  - time: 85.20635
+    num: 3
+    noteKind: 0
+  - time: 85.44102
+    num: 1
+    noteKind: 0
+  - time: 85.67567
+    num: 3
+    noteKind: 0
+  - time: 85.91034
+    num: 1
+    noteKind: 0
+  - time: 86.31567
+    num: 3
+    noteKind: 0
+  - time: 86.61436
+    num: 3
+    noteKind: 0
+  - time: 86.89168
+    num: 1
+    noteKind: 0
+  - time: 87.019684
+    num: 3
+    noteKind: 0
+  - time: 87.318344
+    num: 1
+    noteKind: 0
+  - time: 87.72367
+    num: 3
+    noteKind: 0
+  - time: 88.00102
+    num: 1
+    noteKind: 0
+  - time: 88.513016
+    num: 1
+    noteKind: 0
+  - time: 88.769005
+    num: 3
+    noteKind: 0
+  - time: 89.04635
+    num: 1
+    noteKind: 0
+  - time: 89.28102
+    num: 3
+    noteKind: 0
+  - time: 89.53701
+    num: 1
+    noteKind: 0
+  - time: 89.75034
+    num: 3
+    noteKind: 0
+  - time: 90.19834
+    num: 1
+    noteKind: 0
+  - time: 90.49701
+    num: 1
+    noteKind: 0
+  - time: 90.731674
+    num: 3
+    noteKind: 0
+  - time: 90.88102
+    num: 1
+    noteKind: 0
+  - time: 91.17968
+    num: 3
+    noteKind: 0
+  - time: 92.24039
+    num: 2
+    noteKind: 0
+  - time: 94.22437
+    num: 2
+    noteKind: 0
+  - time: 96.12304
+    num: 2
+    noteKind: 0
+  - time: 97.97905
+    num: 2
+    noteKind: 0
+  - time: 100.13372
+    num: 2
+    noteKind: 0
+  - time: 101.88304
+    num: 2
+    noteKind: 0
+  - time: 103.78172
+    num: 2
+    noteKind: 0
+  - time: 105.68038
+    num: 2
+    noteKind: 0
+  - time: 107.685715
+    num: 3
+    noteKind: 0
+  - time: 108.17637
+    num: 1
+    noteKind: 0
+  - time: 108.66705
+    num: 3
+    noteKind: 0
+  - time: 109.15771
+    num: 1
+    noteKind: 0
+  - time: 109.62705
+    num: 3
+    noteKind: 0
+  - time: 110.11771
+    num: 1
+    noteKind: 0
+  - time: 110.54438
+    num: 3
+    noteKind: 0
+  - time: 111.03506
+    num: 1
+    noteKind: 0
+  - time: 111.50438
+    num: 3
+    noteKind: 0
+  - time: 111.97372
+    num: 1
+    noteKind: 0
+  - time: 112.46438
+    num: 3
+    noteKind: 0
+  - time: 112.933716
+    num: 1
+    noteKind: 0
+  - time: 113.38172
+    num: 3
+    noteKind: 0
+  - time: 113.89372
+    num: 1
+    noteKind: 0
+  - time: 114.34172
+    num: 3
+    noteKind: 0
+  - time: 114.81104
+    num: 1
+    noteKind: 0
+  - time: 115.32304
+    num: 3
+    noteKind: 0
+  - time: 115.83506
+    num: 3
+    noteKind: 0
+  - time: 116.33
+    num: 1
+    noteKind: 0
+  - time: 116.78
+    num: 1
+    noteKind: 0
+  - time: 117.29
+    num: 3
+    noteKind: 0
+  - time: 117.78
+    num: 3
+    noteKind: 0
+  - time: 118.21
+    num: 1
+    noteKind: 0
+  - time: 118.7
+    num: 1
+    noteKind: 0
+  - time: 119.199295
+    num: 3
+    noteKind: 0
+  - time: 119.68998
+    num: 3
+    noteKind: 0
+  - time: 120.20197
+    num: 1
+    noteKind: 0
+  - time: 120.71397
+    num: 1
+    noteKind: 0
+  - time: 121.16197
+    num: 3
+    noteKind: 0
+  - time: 121.63132
+    num: 3
+    noteKind: 0
+  - time: 122.14331
+    num: 1
+    noteKind: 0
+  - time: 122.61263
+    num: 1
+    noteKind: 0
+  - time: 122.98172
+    num: 3
+    noteKind: 0
+  - time: 123.51506
+    num: 1
+    noteKind: 0
+  - time: 123.77104
+    num: 3
+    noteKind: 0
+  - time: 124.92304
+    num: 1
+    noteKind: 0
+  - time: 125.41372
+    num: 1
+    noteKind: 0
+  - time: 125.62705
+    num: 3
+    noteKind: 0
+  - time: 126.86438
+    num: 3
+    noteKind: 0
+  - time: 127.291046
+    num: 3
+    noteKind: 0
+  - time: 127.52571
+    num: 1
+    noteKind: 0
+  - time: 128.76303
+    num: 1
+    noteKind: 0
+  - time: 129.23238
+    num: 1
+    noteKind: 0
+  - time: 129.48839
+    num: 3
+    noteKind: 0
+  - time: 130.76839
+    num: 3
+    noteKind: 0
+  - time: 131.19505
+    num: 1
+    noteKind: 0
+  - time: 131.68571
+    num: 3
+    noteKind: 0
+  - time: 132.64572
+    num: 1
+    noteKind: 0
+  - time: 133.09372
+    num: 3
+    noteKind: 0
+  - time: 133.56303
+    num: 1
+    noteKind: 0
+  - time: 134.56572
+    num: 1
+    noteKind: 0
+  - time: 135.03505
+    num: 3
+    noteKind: 0
+  - time: 135.48303
+    num: 1
+    noteKind: 0
+  - time: 136.50705
+    num: 3
+    noteKind: 0
+  - time: 136.89104
+    num: 1
+    noteKind: 0
+  - time: 137.40305
+    num: 3
+    noteKind: 0
+  - time: 138.46608
+    num: 1
+    noteKind: 0
+  - time: 138.93542
+    num: 1
+    noteKind: 0
+  - time: 139.14876
+    num: 3
+    noteKind: 0
+  - time: 139.59676
+    num: 1
+    noteKind: 0
+  - time: 139.87408
+    num: 1
+    noteKind: 0
+  - time: 140.15141
+    num: 3
+    noteKind: 0
+  - time: 140.40741
+    num: 1
+    noteKind: 0
+  - time: 140.72742
+    num: 3
+    noteKind: 0
+  - time: 141.04741
+    num: 1
+    noteKind: 0
+  - time: 141.53807
+    num: 1
+    noteKind: 0
+  - time: 141.79408
+    num: 3
+    noteKind: 0
+  - time: 142.0501
+    num: 1
+    noteKind: 0
+  - time: 142.30608
+    num: 3
+    noteKind: 0
+  - time: 142.73274
+    num: 3
+    noteKind: 0
+  - time: 142.96742
+    num: 1
+    noteKind: 0
+  - time: 143.47942
+    num: 3
+    noteKind: 0
+  - time: 143.71408
+    num: 1
+    noteKind: 0
+  - time: 143.9701
+    num: 3
+    noteKind: 0
+  - time: 144.20474
+    num: 1
+    noteKind: 0
+  - time: 144.56741
+    num: 1
+    noteKind: 0
+  - time: 144.88742
+    num: 3
+    noteKind: 0
+  - time: 146.06075
+    num: 3
+    noteKind: 0
+  - time: 146.57274
+    num: 3
+    noteKind: 0
+  - time: 146.82875
+    num: 1
+    noteKind: 0
+  - time: 147.31941
+    num: 1
+    noteKind: 0
+  - time: 147.53275
+    num: 3
+    noteKind: 0
+  - time: 147.78876
+    num: 1
+    noteKind: 0
+  - time: 148.06607
+    num: 3
+    noteKind: 0
+  - time: 148.38608
+    num: 3
+    noteKind: 0
+  - time: 148.70607
+    num: 1
+    noteKind: 0
+  - time: 149.19676
+    num: 1
+    noteKind: 0
+  - time: 149.45274
+    num: 3
+    noteKind: 0
+  - time: 149.73009
+    num: 1
+    noteKind: 0
+  - time: 149.98608
+    num: 1
+    noteKind: 0
+  - time: 150.45541
+    num: 1
+    noteKind: 0
+  - time: 150.66875
+    num: 3
+    noteKind: 0
+  - time: 151.15941
+    num: 3
+    noteKind: 0
+  - time: 151.43675
+    num: 1
+    noteKind: 0
+  - time: 151.6714
+    num: 3
+    noteKind: 0
+  - time: 151.88474
+    num: 1
+    noteKind: 0
+  - time: 152.26875
+    num: 1
+    noteKind: 0
+  - time: 152.58876
+    num: 3
+    noteKind: 0
+  - time: 153.83893
+    num: 1
+    noteKind: 0
+  - time: 154.30826
+    num: 1
+    noteKind: 0
+  - time: 154.52159
+    num: 3
+    noteKind: 0
+  - time: 154.99094
+    num: 3
+    noteKind: 0
+  - time: 155.24692
+    num: 1
+    noteKind: 0
+  - time: 155.46025
+    num: 3
+    noteKind: 0
+  - time: 155.69492
+    num: 1
+    noteKind: 0
+  - time: 156.01492
+    num: 3
+    noteKind: 0
+  - time: 156.3776
+    num: 1
+    noteKind: 0
+  - time: 156.88959
+    num: 1
+    noteKind: 0
+  - time: 157.10292
+    num: 3
+    noteKind: 0
+  - time: 157.35893
+    num: 1
+    noteKind: 0
+  - time: 157.61491
+    num: 1
+    noteKind: 0
+  - time: 158.08426
+    num: 1
+    noteKind: 0
+  - time: 158.27626
+    num: 3
+    noteKind: 0
+  - time: 158.78825
+    num: 3
+    noteKind: 0
+  - time: 159.0656
+    num: 1
+    noteKind: 0
+  - time: 159.27893
+    num: 3
+    noteKind: 0
+  - time: 159.53493
+    num: 1
+    noteKind: 0
+  - time: 159.91893
+    num: 1
+    noteKind: 0
+  - time: 160.21759
+    num: 3
+    noteKind: 0
+  - time: 161.47626
+    num: 3
+    noteKind: 0
+  - time: 161.92427
+    num: 3
+    noteKind: 0
+  - time: 162.15894
+    num: 1
+    noteKind: 0
+  - time: 162.67093
+    num: 1
+    noteKind: 0
+  - time: 162.88426
+    num: 3
+    noteKind: 0
+  - time: 163.11893
+    num: 1
+    noteKind: 0
+  - time: 163.37492
+    num: 3
+    noteKind: 0
+  - time: 163.75894
+    num: 3
+    noteKind: 0
+  - time: 164.10025
+    num: 1
+    noteKind: 0
+  - time: 164.5696
+    num: 1
+    noteKind: 0
+  - time: 164.80426
+    num: 3
+    noteKind: 0
+  - time: 165.06026
+    num: 1
+    noteKind: 0
+  - time: 165.31625
+    num: 3
+    noteKind: 0
+  - time: 165.7856
+    num: 3
+    noteKind: 0
+  - time: 166.02025
+    num: 1
+    noteKind: 0
+  - time: 166.4896
+    num: 1
+    noteKind: 0
+  - time: 166.72426
+    num: 3
+    noteKind: 0
+  - time: 166.95894
+    num: 1
+    noteKind: 0
+  - time: 167.21492
+    num: 3
+    noteKind: 0
+  - time: 167.57759
+    num: 3
+    noteKind: 0
+  - time: 167.8976
+    num: 1
+    noteKind: 0
+  - time: 169.13794
+    num: 2
+    noteKind: 0
+  - time: 170.07661
+    num: 2
+    noteKind: 0
+  - time: 171.05794
+    num: 2
+    noteKind: 0
+  - time: 172.01793
+    num: 2
+    noteKind: 0
+  - time: 173.01671
+    num: 2
+    noteKind: 0
+  - time: 173.48604
+    num: 3
+    noteKind: 0
+  - time: 173.97672
+    num: 2
+    noteKind: 0
+  - time: 174.4247
+    num: 1
+    noteKind: 0
+  - time: 174.91537
+    num: 2
+    noteKind: 0
+  - time: 175.38469
+    num: 3
+    noteKind: 0
+  - time: 175.8327
+    num: 2
+    noteKind: 0
+  - time: 176.83537
+    num: 2
+    noteKind: 0
+  - time: 177.28339
+    num: 1
+    noteKind: 0
+  - time: 177.79538
+    num: 2
+    noteKind: 0
+  - time: 178.24338
+    num: 3
+    noteKind: 0
+  - time: 178.73404
+    num: 2
+    noteKind: 0
+  - time: 179.1607
+    num: 1
+    noteKind: 0
+  - time: 179.6727
+    num: 2
+    noteKind: 0
+  - time: 180.14204
+    num: 3
+    noteKind: 0
+  - time: 180.6327
+    num: 2
+    noteKind: 0
+  - time: 181.10204
+    num: 1
+    noteKind: 0
+  - time: 181.5927
+    num: 2
+    noteKind: 0
+  - time: 182.06204
+    num: 3
+    noteKind: 0
+  - time: 182.53136
+    num: 2
+    noteKind: 0
+  - time: 183.40604
+    num: 2
+    noteKind: 0
+  - time: 184.6106
+    num: 2
+    noteKind: 0
+  - time: 185.05858
+    num: 2
+    noteKind: 0
+  - time: 185.52791
+    num: 2
+    noteKind: 0
+  - time: 186.44456
+    num: 3
+    noteKind: 0
+  - time: 186.6579
+    num: 1
+    noteKind: 0
+  - time: 186.78589
+    num: 3
+    noteKind: 0
+  - time: 187.1059
+    num: 1
+    noteKind: 0
+  - time: 188.36456
+    num: 2
+    noteKind: 0
+  - time: 188.83388
+    num: 2
+    noteKind: 0
+  - time: 189.28188
+    num: 2
+    noteKind: 0
+  - time: 190.28456
+    num: 1
+    noteKind: 0
+  - time: 190.47655
+    num: 3
+    noteKind: 0
+  - time: 190.6259
+    num: 1
+    noteKind: 0
+  - time: 190.98856
+    num: 3
+    noteKind: 0
+  - time: 192.22589
+    num: 2
+    noteKind: 0
+  - time: 192.71655
+    num: 2
+    noteKind: 0
+  - time: 193.16455
+    num: 2
+    noteKind: 0
+  - time: 194.12456
+    num: 3
+    noteKind: 0
+  - time: 194.33789
+    num: 1
+    noteKind: 0
+  - time: 194.4659
+    num: 3
+    noteKind: 0
+  - time: 194.84988
+    num: 1
+    noteKind: 0
+  - time: 196.0659
+    num: 2
+    noteKind: 0
+  - time: 196.55655
+    num: 2
+    noteKind: 0
+  - time: 197.00456
+    num: 2
+    noteKind: 0
+  - time: 197.96455
+    num: 1
+    noteKind: 0
+  - time: 198.17789
+    num: 3
+    noteKind: 0
+  - time: 198.3059
+    num: 1
+    noteKind: 0
+  - time: 198.71123
+    num: 3
+    noteKind: 0
+  - time: 199.86461
+    num: 3
+    noteKind: 0
+  - time: 200.14195
+    num: 1
+    noteKind: 0
+  - time: 200.3766
+    num: 3
+    noteKind: 0
+  - time: 200.65395
+    num: 1
+    noteKind: 0
+  - time: 200.8246
+    num: 3
+    noteKind: 0
+  - time: 201.05928
+    num: 1
+    noteKind: 0
+  - time: 201.57127
+    num: 1
+    noteKind: 0
+  - time: 201.82729
+    num: 1
+    noteKind: 0
+  - time: 202.01927
+    num: 3
+    noteKind: 0
+  - time: 202.14728
+    num: 1
+    noteKind: 0
+  - time: 202.50993
+    num: 3
+    noteKind: 0
+  - time: 203.72574
+    num: 1
+    noteKind: 0
+  - time: 203.93907
+    num: 3
+    noteKind: 0
+  - time: 204.21642
+    num: 1
+    noteKind: 0
+  - time: 204.42975
+    num: 3
+    noteKind: 0
+  - time: 204.6644
+    num: 1
+    noteKind: 0
+  - time: 204.89906
+    num: 3
+    noteKind: 0
+  - time: 205.42159
+    num: 3
+    noteKind: 0
+  - time: 205.65627
+    num: 3
+    noteKind: 0
+  - time: 205.91226
+    num: 1
+    noteKind: 0
+  - time: 206.10426
+    num: 3
+    noteKind: 0
+  - time: 206.38159
+    num: 1
+    noteKind: 0
+  - time: 207.56573
+    num: 3
+    noteKind: 0
+  - time: 207.80042
+    num: 1
+    noteKind: 0
+  - time: 208.03508
+    num: 3
+    noteKind: 0
+  - time: 208.29106
+    num: 1
+    noteKind: 0
+  - time: 208.5044
+    num: 3
+    noteKind: 0
+  - time: 208.7604
+    num: 1
+    noteKind: 0
+  - time: 209.22191
+    num: 1
+    noteKind: 0
+  - time: 209.52057
+    num: 1
+    noteKind: 0
+  - time: 209.7339
+    num: 3
+    noteKind: 0
+  - time: 209.86191
+    num: 1
+    noteKind: 0
+  - time: 210.1819
+    num: 3
+    noteKind: 0
+  - time: 211.36308
+    num: 1
+    noteKind: 0
+  - time: 211.59773
+    num: 3
+    noteKind: 0
+  - time: 211.89642
+    num: 1
+    noteKind: 0
+  - time: 212.10976
+    num: 3
+    noteKind: 0
+  - time: 212.38707
+    num: 1
+    noteKind: 0
+  - time: 212.6004
+    num: 3
+    noteKind: 0
+  - time: 213.07045
+    num: 3
+    noteKind: 0
+  - time: 213.32646
+    num: 3
+    noteKind: 0
+  - time: 213.56113
+    num: 1
+    noteKind: 0
+  - time: 213.6678
+    num: 3
+    noteKind: 0
+  - time: 213.9878
+    num: 1
+    noteKind: 0
+  - time: 214.50069
+    num: 3
+    noteKind: 0
+  - time: 214.69267
+    num: 3
+    noteKind: 0
+  - time: 214.99136
+    num: 1
+    noteKind: 0
+  - time: 215.24734
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 2
+    noteKind: 0
+  - time: 0
+    num: 0
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 3
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 2
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
+  - time: 0
+    num: 1
+    noteKind: 0
